@@ -3,6 +3,8 @@ CREATE DATABASE superhero_dev;
 
 \c superhero_dev;
 
+DROP TABLE IF EXISTS superhero;
+
 CREATE TABLE superhero (
 	id SERIAL PRIMARY KEY,
 	image TEXT,

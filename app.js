@@ -2,7 +2,7 @@ const express = require("express");
 const cors = require("cors");
 
 const app = express();
-const superhero = require("../backend/controllers/superhero")
+const superhero = require("../Ultimate_Superhero_Database-Server/controllers/superhero")
 
 app.use(cors());
 app.use( express.json() );

@@ -92,7 +92,7 @@ VALUES (
 		'Slayer Army, Scooby Gang, (formerly) The Initiative, Watchers Council, Joyce Summers (mother, deceased), Hank Summers (father), Dawn Summers (sister), Celia (cousin, deceased), Arlene (aunt)'
 	),
 	(
-		'https://i.imgur.com/x0oTNzV.jpg',
+		'https://www.gameinformer.com/sites/default/files/styles/body_default/public/2021/06/04/3928fb70/male_1.jpg',
 		'Commander Shepherd',
 		'-',
 		'-',

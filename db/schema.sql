@@ -9,7 +9,7 @@ CREATE TABLE superhero (
 	id SERIAL PRIMARY KEY,
 	image TEXT,
 	name TEXT,
-	fullName TEXT,
+	fullname TEXT,
 	location TEXT,
 	intelligence INT,
 	strength INT,

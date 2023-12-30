@@ -92,7 +92,7 @@ VALUES (
 		'Slayer Army, Scooby Gang, (formerly) The Initiative, Watchers Council, Joyce Summers (mother, deceased), Hank Summers (father), Dawn Summers (sister), Celia (cousin, deceased), Arlene (aunt)'
 	),
 	(
-		'https://www.gameinformer.com/sites/default/files/styles/body_default/public/2021/06/04/3928fb70/male_1.jpg',
+		'https://i.redd.it/rzehxq2fhrs71.jpg',
 		'Commander Shepherd',
 		'-',
 		'-',
@@ -124,7 +124,7 @@ VALUES (
 		Nyreen Kandros'
 ),
 (
-	'https://www.giantbomb.com/a/uploads/scale_small/6/62890/1688536-lightning_03.jpg',
+	'https://i.ebayimg.com/images/g/pKQAAOSw5B5jaDXN/s-l1200.webp',
 	'Lighting',
 	'Claire Farron',
 	'Bodhum',

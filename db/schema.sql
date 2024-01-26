@@ -17,5 +17,6 @@ CREATE TABLE superhero (
 	durability INT,
 	power INT,
 	combat INT,
-	connections TEXT
+	connections TEXT,
+	ON DELETE CASCADE
 );

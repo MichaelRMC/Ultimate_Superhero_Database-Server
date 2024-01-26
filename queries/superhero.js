@@ -37,7 +37,7 @@ const createSuperhero = async (superhero) => {
 const deleteSuperhero = async (id) => {
 	try {
 		const deletedSuperhero = await db.one(
-			"DELETE from superhero WHERE id = $1 RETURNING *",
+			"DELETE FROM superhero WHERE id = $1 RETURNING *",
 			id
 		);
 		return deletedSuperhero;
